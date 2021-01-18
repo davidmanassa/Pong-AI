@@ -6,4 +6,5 @@
 - Rede neuronal
 
 Média de recompensas a cada 100 episódios:
-![alt text](https://github.com/davidmanassa/Pong-AI/blob/master/grafico.png)
+
+![alt text](https://github.com/davidmanassa/Pong-AI/blob/main/grafico.png)
